@@ -3,6 +3,9 @@
 <html>
 <head>
 
+<!-- Google Maps JS -->
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor-false&libraries=places"></script>
+
 <!-- BootStrap cdn -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 
@@ -14,30 +17,104 @@
 <!--Bootstrap JS -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
-<!-- Google Maps JS -->
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor-false&libraries=places"></script>
+<!-- Latest compiled JavaScript -->
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
 
 <!--GSU JS -->
 <script src="gsuMapJS.js"></script>
-
 
 </head>
 
 <body>
 
 
-
-
-
-
-<h1>Hey I'm made with Bootstrap! You can turn anything in html into a Bootstrap-enabled div!</h1>
-<h2> I look like crap right now but with a little styling I can be made to look beautiful.</h2>
-
-
+<div class="navbar navbar-default">
+    <div class="navbar-header">
+        <button type="button" class="btn btn-first dropdown-toggle" data-toggle="dropdown" data-target=".navbar-default-dropdown">
+        </button>
+        <a class="navbar-brand" href="http://www.gsu.edu/" > Campus Map </a>
+    </div>
+    <div class="navbar-collapse collapse navbar-inverse-collapse">
+        <ul class="nav navbar-nav">
+            <li class="dropdown">
+            	 <a href="#" class="dropdown-toggle" data-toggle="dropdown"> 
+                	Buildings 
+                	<b class="caret"></b> 
+                </a>
+                <ul class="dropdown-menu">
+                
+                    <li><a href="#">Academic</a></li>
+                    <li><a href="#">Tech Facilities</a></li>
+                    <li><a href="#">Colleges</a></li>
+                    <li><a href="#">Student Life</a></li>
+                </ul>
+            </li>
+             <li class="dropdown">
+                <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                	Food 
+                	<b class="caret"></b>
+                </a>
+                <ul class="dropdown-menu" role ="menu">
+                    <li><a href="#">On Campus</a></li>
+                    <li><a href="#">Off Campus</a></li>
+                    <li><a href="#"> All Options</a></li>
+                </ul>
+            </li>
+             <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                	Transportation 
+                	<b class="caret"></b>
+                </a>
+                <ul class="dropdown-menu">
+                    <li><a href="#">Parking Decks</a></li>
+                    <li><a href="#">NextBus System</a></li>
+                    <li><a href="#">Extensions</a></li>
+                </ul>
+            </li>
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                	Housing 
+                	<b class="caret"></b>
+                </a>
+                <ul class="dropdown-menu">
+                    <li><a href="#">On-Campus</a></li>
+                    <li><a href="#">Off-Campus</a></li>
+                </ul>
+            </li>
+        </ul>
+        <form class="navbar-form navbar-left">
+            <input class="form-control col-lg-8" placeholder="Search" type="text">
+        </form>
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href="#">Live Feed</a></li>
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                Social 
+                	<b class="caret"></b>
+                </a>
+                <ul class="dropdown-menu">
+                    <li><a href="https://twitter.com/GeorgiaStateU"">
+                    	<img src="https://eed3d06ea2ee3c85d7b7f481db87a89caaa0764a-www.googledrive.com/host/0B3ok2D_mv0DHfk5HQmtMcVdBeTFkTWNSTkpwQktCZ2k3dFJlaER2NFg5VGRRRWg5blctUHc/twitter-icon.png">
+                    </a></li>
+                    <li><a href="https://instagram.com/georgiastateuniversity/?hl=en">
+                    	<img src="http://icons.iconarchive.com/icons/uiconstock/socialmedia/512/Instagram-icon.png"></a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</div>
 
 <input id="places-input" class="controls" type="text" placeholder="Search for Places Here" >
-<div id = "map"></div>
-</div>
+<div id = "map" style="	height: 951px; width: 1900px;"></div>
+
+
+</div> 
+
 </body>
 
 
