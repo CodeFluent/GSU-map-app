@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>GSU Map [Updated Version]</name>
+		<description><![CDATA[]]></description>
+<Folder>
+  <name>Academic</name>
+  <Placemark>
+    <name>Arts and Humanities</name>
+    <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.38661890000003,33.7539712,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Classroom South</name>
+    <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.38755809999998,33.7525817,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dahlberg Hall</name>
+    <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.38456710000004,33.7538338,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Helen M. Aderhold Learning Center</name>
+    <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.38912640000001,33.7563531,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kell Hall</name>
+    <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.38671060000001,33.7535359,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Langdale Hall</name>
+    <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.38715860000002,33.7532169,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Library South</name>
+    <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.38701040000001,33.7522591,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Natural Science Center</name>
+    <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.38806499999998,33.753531,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Petit Science Center</name>
+    <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.3854715,33.7508331,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Science Annex</name>
+    <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.38740410000001,33.7536857,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sparks Hall</name>
+    <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.38590720000002,33.7534327,0.0</coordinates>
+    </Point>
+  </Placemark>
+</Folder>
+</Document>
+</kml>

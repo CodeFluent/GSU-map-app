@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>GSU Map [Updated Version]</name>
+		<description><![CDATA[]]></description>
+<Folder>
+  <name>Tech Facilities</name>
+  <Placemark>
+    <name>Aderhold Learning Center</name>
+    <description><![CDATA[0 floor in Aderhold]]></description>
+    <styleUrl>#icon-503-DB4436</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.3892778,33.756253,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>CURVE </name>
+    <description><![CDATA[2nd Floor Library South]]></description>
+    <styleUrl>#icon-503-DB4436</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.3870104,33.7522591,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Digital Aquarium </name>
+    <description><![CDATA[Room 390 	Student Center]]></description>
+    <styleUrl>#icon-503-DB4436</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.3848598,33.7526578,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>GSU Library</name>
+    <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.38658399999997,33.752735,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Exchange</name>
+    <description><![CDATA[1st floor Library South]]></description>
+    <styleUrl>#icon-503-DB4436</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.3870104,33.7522591,0.0</coordinates>
+    </Point>
+  </Placemark>
+</Folder>
+</Document>
+</kml>

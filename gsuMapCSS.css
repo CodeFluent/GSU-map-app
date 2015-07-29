@@ -2,3 +2,25 @@ html,body{
 	height: 100%;
 	margin:0%;
 }
+
+#places-input {
+	width: 500px;
+	padding: 15px 5px 15px 20px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+#map{
+	height: 951px;
+	width: 1900px;
+
+}
+#toggle_box{
+	position: absolute;
+	margin-right: 10px;
+	top: 100px;
+	right: 20px;
+	padding: 10px 15px;
+	background: #fff;
+	z-index: 5;
+}

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>GSU Map [Updated Version]</name>
+		<description><![CDATA[]]></description>
+
+<Folder>
+  <name>Colleges</name>
+  <Placemark>
+    <name>Andrew Young School of Policy Studies</name>
+    <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.39016900000001,33.754289,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>College of Arts and Sciences</name>
+    <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.38724200000001,33.753133,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>College of Education</name>
+    <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.38902400000002,33.753453,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>College of Law</name>
+    <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.38550600000002,33.751922,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>J. Mack Robinson College of Business</name>
+    <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.389925,33.755144,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>School of Music</name>
+    <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.38976000000002,33.75663,0.0</coordinates>
+    </Point>
+  </Placemark>
+</Folder>
+
+</Document>
+</kml>

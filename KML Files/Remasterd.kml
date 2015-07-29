@@ -1,0 +1,1300 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>GSU Map [Updated Version]</name>
+		<description><![CDATA[]]></description>
+
+
+
+		<Folder>
+			<name>Services/Other</name>
+			<Placemark>
+				<name>GSU Office of Undergraduate Admissions</name>
+				<styleUrl>#icon-961-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38556800000003,33.753476,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>GSU Small Business Development Center</name>
+				<styleUrl>#icon-961-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.388554,33.754112,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>GSU Student Clinic</name>
+				<styleUrl>#icon-961-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38200699999999,33.757428000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Intensive English Program/Writing Studio, Georgia State University</name>
+				<styleUrl>#icon-961-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38807300000002,33.755182,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>One Park Place</name>
+				<styleUrl>#icon-961-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38902639999998,33.7542414,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>University Bookstore</name>
+				<styleUrl>#icon-961-F8971B-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38593559999998,33.752523,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Information Center Desk in Student Center</name>
+				<description><![CDATA[1st floor of Student Center near the stairs]]></description>
+				<styleUrl>#icon-961-F8971B</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.3849687,33.7532215,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Student Life</name>
+			<Placemark>
+				<name>GSU Student Recreation Center</name>
+				<styleUrl>#icon-960-F4EB37-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38439800000003,33.752006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Georgia State University Student Center</name>
+				<styleUrl>#icon-960-F4EB37-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.3849687,33.7532215,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rialto Center for the Arts</name>
+				<styleUrl>#icon-960-F4EB37-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38952599999999,33.756715,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>University Center</name>
+				<styleUrl>#icon-960-F4EB37-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38427709999996,33.755686,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Housing</name>
+			<Placemark>
+				<name>Patton Hall</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38251300000002,33.754843,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Piedmont North Building</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38110599999999,33.758801,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Lofts</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38371000000001,33.75422,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>University Commons</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38134400000001,33.757819,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ashley Auburn Pointe</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.37791199999998,33.751038,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>City Plaza Apartments</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.39180599999997,33.74882,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CityWalk Apartments/Renaissance Walk</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38128,33.75532,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Muses Lofts Lobby</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38928099999998,33.755238,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>One12 Courtland</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38455399999998,33.757348,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pencil Factory Flats &amp; Shops</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.378354,33.749512,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+
+		<Folder>
+			<name>MARTA Stations</name>
+			<Placemark>
+				<name>Buckhead MARTA Station</name>
+				<styleUrl>#icon-1445-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.36887200000001,33.849851,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Civic Center Station</name>
+				<styleUrl>#icon-1445-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38750400000004,33.766245,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dunwoody MARTA Station</name>
+				<styleUrl>#icon-1445-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.34440999999998,33.921212,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Edgewood-Candler Park South Parking Lot</name>
+				<styleUrl>#icon-1445-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.33961999999997,33.761972,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Five Points Station</name>
+				<styleUrl>#icon-1445-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.39153899999997,33.754061,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Georgia State MARTA Station</name>
+				<styleUrl>#icon-1445-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38626599999998,33.750258,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Midtown Station</name>
+				<styleUrl>#icon-1445-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38665700000001,33.780737,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>North Avenue MARTA Station</name>
+				<styleUrl>#icon-1445-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38715300000003,33.771631,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>North Springs MARTA Station</name>
+				<styleUrl>#icon-1445-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.35701300000001,33.944454,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Peachtree Center Station</name>
+				<styleUrl>#icon-1445-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.387564,33.759532,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Bus Route Stops</name>
+			<Placemark>
+				<name>GSU Student Center</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.3848276,33.752639900000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>University Commons</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.381344,33.757819,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Piedmont North</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.381106,33.758801,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rialto Center of Arts</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.3895483,33.7573855,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Art &amp; Humanities</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.3866301,33.7546381,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sparks Hall</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.3859005,33.7541742,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Langdale Hall</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.3871021,33.7537104,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Food</name>
+			<Placemark>
+				<name>Ali Baba Mediterranean</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38952699999999,33.755838,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Anatolia Cafe and Hookah Lounge</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.389251,33.755188,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Best Cajun Asian Restaurant</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38979999999998,33.755646,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Blossom Tree</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38900699999999,33.755405,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Buenos Dias Cafe</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.388646,33.753865,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Burger King</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.39151700000002,33.754603,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cafe Hot Wings 11</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38924299999996,33.755412,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Centennial Cafe in Honors Building</name>
+				<description><![CDATA[1st floor next to main desk in Centennial Hall]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.3837997,33.7558673,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CNN Center Food Court</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.39417200000003,33.757885,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Downtown Gourmet</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38802499999997,33.756768,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dua Vietnamese Noodle Soup</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38933400000002,33.755399,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dunkin' Donuts</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38889899999998,33.757425,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ebrik coffee room</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.388687,33.754074,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ginseng Cafe</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38975199999999,33.755691,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Grab N Go</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38805500000001,33.753206,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>It's Greek To Us</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38938610000002,33.7557005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jimmy John's</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38907599999999,33.756352,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kempani Hawaiian Grill- Underground Atlanta</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38935800000002,33.752199,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mama Mia Pizza &amp; Wings</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38894500000004,33.756447,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>McDonald's near Five Points</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.39084000000003,33.754889,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Metro Grill</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38800700000002,33.754192,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mexican Tastes</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38966719999996,33.7557132,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Moe's Southwest Grill near Aderhold</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38913400000001,33.755641,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Moe's Southwest Grill near Patton Hall</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38207699999998,33.754934,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mr. Hibachi</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38824199999999,33.754348,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>NaanStop</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.389344,33.755865,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>One Caffe</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38883599999997,33.755916,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Panther Corner Cafe in Kell Hall</name>
+				<description><![CDATA[Bottom floor, left of the Post Office]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.386823,33.753586,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Panthers Club in University Center</name>
+				<description><![CDATA[Across from Bookstore on the 3rd floor]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38427709999996,33.755686,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Panther Pizza in University Center</name>
+				<description><![CDATA[Located between University Center & Student Center across from all the ATM machines]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38427709999996,33.755686,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Patton Hall Dining</name>
+				<description><![CDATA[For HOUSING students only with a meal plan]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38251300000002,33.754843,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Piedmont North Dining Hall</name>
+				<description><![CDATA[For HOUSING students only with a meal plan]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38110599999999,33.758801,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Popeyes® Louisiana Kitchen</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.392019,33.75343,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Quiznos near Aderhold</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.388106,33.757346,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Quiznos near J. Mack</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.39047,33.755192,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rising Roll Gourmet Downtown Atlanta</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38811299999998,33.756648,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Roly Poly</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.388512,33.754268,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rosa's Pizza</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38950399999999,33.755865,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Reuben's Deli</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.389297,33.755532,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Saxbys Coffee Georgia State</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38658199999998,33.752709,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sensational Subs</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38821200000001,33.754333,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Smoothie King</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38927799999999,33.756253,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Starbucks</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38861099999997,33.756885,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Subway next to Aderhold</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38935600000002,33.75595200000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SUBWAY® near College of Education</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38866100000001,33.753708,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Subway near 25 Park Place</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38745699999998,33.756399,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Courtyard in Student Center</name>
+				<description><![CDATA[1st floor behind the Information Center]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.3849687,33.7532215,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tin Drum Asiacafé</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.388915,33.755858,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Waffle House</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38545199999999,33.751002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Willy's Mexicana Grill</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.3855168,33.7508532,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Weekday Cafe</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-84.38862599999999,33.754094,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1207-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1207-fac-parking.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1207-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1207-fac-parking.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1207-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1207-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1207-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1445-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1445-trans-metro.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1445-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1445-trans-metro.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1445-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1445-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1445-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-F4EB37-nodesc-normal'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-960-F4EB37-nodesc-highlight'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-960-F4EB37-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-F4EB37-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-F4EB37-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-961-F8971B-normal'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-961-F8971B-highlight'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-961-F8971B'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-961-F8971B-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-961-F8971B-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-961-F8971B-nodesc-normal'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-961-F8971B-nodesc-highlight'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-961-F8971B-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-961-F8971B-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-961-F8971B-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-4186F0-15-255-nodesc-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>15</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FFF08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-4186F0-15-255-nodesc-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>23.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FFF08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-4186F0-15-255-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-4186F0-15-255-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-4186F0-15-255-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-4186F0-17-255-nodesc-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>17</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FFF08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-4186F0-17-255-nodesc-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>26.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FFF08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-4186F0-17-255-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-4186F0-17-255-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-4186F0-17-255-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-4186F0-18-255-nodesc-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>18</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FFF08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-4186F0-18-255-nodesc-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>27.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FFF08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-4186F0-18-255-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-4186F0-18-255-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-4186F0-18-255-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-4186F0-21-255-nodesc-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>21</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FFF08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-4186F0-21-255-nodesc-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>32.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FFF08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-4186F0-21-255-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-4186F0-21-255-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-4186F0-21-255-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-4186F0-23-255-nodesc-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>23</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FFF08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-4186F0-23-255-nodesc-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>35.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FFF08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-4186F0-23-255-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-4186F0-23-255-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-4186F0-23-255-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

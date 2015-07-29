@@ -1,0 +1,172 @@
+
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>GSU Map [Updated Version]</name>
+		<description><![CDATA[]]></description>
+<Folder>
+  <name>Parking Decks</name>
+  <Placemark>
+    <name>Blue Lot- Turner Field</name>
+    <styleUrl>#poly-4186F0-17-255-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>-84.3905783,33.7402129,0.0 -84.38972000000001,33.7404894,0.0 -84.3889689,33.74035560000001,0.0 -84.3884861,33.7399898,0.0 -84.3883252,33.739401,0.0 -84.387939,33.7394099,0.0 -84.3879604,33.7414173,0.0 -84.3883467,33.7417742,0.0 -84.3906212,33.7417652,0.0 -84.3906319,33.7409891,0.0 -84.3905783,33.7402129,0.0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Blue Lot- Turner Field</name>
+    <styleUrl>#icon-1207-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.38935700000002,33.741483,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>G Deck</name>
+    <styleUrl>#poly-4186F0-18-255-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>-84.3879792,33.7520891,0.0 -84.3879148,33.7520445,0.0 -84.3879551,33.7519976,0.0 -84.3874884,33.7516654,0.0 -84.3874642,33.7517055,0.0 -84.3874106,33.75166310000001,0.0 -84.38717990000002,33.7518951,0.0 -84.3872121,33.7520556,0.0 -84.3871665,33.7520913,0.0 -84.3875286,33.7523612,0.0 -84.3875742,33.7523188,0.0 -84.3876708,33.752394599999995,0.0 -84.3879792,33.7520891,0.0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>G Deck</name>
+    <styleUrl>#icon-1207-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.3875506,33.7520188,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>K Deck</name>
+    <styleUrl>#poly-4186F0-23-255-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>-84.3845084,33.7509941,0.0 -84.3842402,33.750786700000006,0.0 -84.3836823,33.7513175,0.0 -84.3839532,33.7515115,0.0 -84.3845084,33.7509941,0.0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>K Deck</name>
+    <styleUrl>#icon-1207-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.38410859999999,33.7511348,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>M Deck</name>
+    <styleUrl>#poly-4186F0-21-255-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>-84.384554,33.753157300000005,0.0 -84.3842322,33.7529031,0.0 -84.3841839,33.75294319999999,0.0 -84.3841088,33.75287629999999,0.0 -84.3840712,33.7528719,0.0 -84.3835616,33.753344600000005,0.0 -84.3836206,33.7533892,0.0 -84.3835616,33.7534517,0.0 -84.3839478,33.75370589999999,0.0 -84.384554,33.753157300000005,0.0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>M Deck</name>
+    <styleUrl>#icon-1207-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.38405109999997,33.7532448,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>N Deck</name>
+    <styleUrl>#poly-4186F0-23-255-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>-84.3848437,33.7512416,0.0 -84.3845755,33.7510231,0.0 -84.3840176,33.7515583,0.0 -84.3842965,33.7517568,0.0 -84.3848437,33.7512416,0.0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>N Deck</name>
+    <styleUrl>#icon-1207-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.38451250000003,33.75127160000001,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>T Deck</name>
+    <styleUrl>#poly-4186F0-15-255-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>-84.3871638,33.75551,0.0 -84.3872041,33.7546225,0.0 -84.38713970000002,33.75456669999999,0.0 -84.3865013,33.7545846,0.0 -84.3863471,33.7547663,0.0 -84.3862465,33.75497479999999,0.0 -84.3862358,33.755494399999996,0.0 -84.3866301,33.7554877,0.0 -84.3866301,33.75550330000001,0.0 -84.3871638,33.75551,0.0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>T Deck</name>
+    <styleUrl>#icon-1207-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.386934,33.755361,0.0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lofts Parking Deck</name>
+    <styleUrl>#poly-4186F0-15-255-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>-84.3838218,33.7538063,0.0 -84.3838298,33.753768300000004,0.0 -84.3834704,33.7535186,0.0 -84.3834329,33.7535387,0.0 -84.3833953,33.7535007,0.0 -84.3830547,33.7538196,0.0 -84.3830949,33.7538397,0.0 -84.38306,33.7538865,0.0 -84.3833873,33.7541006,0.0 -84.383406,33.7540716,0.0 -84.3834785,33.75407609999999,0.0 -84.383516,33.7540984,0.0 -84.3838218,33.7538063,0.0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Lofts Parking Deck</name>
+    <styleUrl>#icon-1207-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.38314760000003,33.7536045,0.0</coordinates>
+    </Point>
+  </Placemark>
+</Folder>
+</Document>
+</kml>

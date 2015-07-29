@@ -2,18 +2,21 @@
 
 <html>
 <head>
+
+<link rel="stylesheet" type="text/css" href="gsuMapCSS.css">
+
   <!--Always put this first-->
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor-false&libraries=places"></script>
 <script src="gsuMapJS.js"></script>
-<link rel="stylesheet" type="text/css" src="gsuMapCSS.css">
+
 </head>
 
-<body>
+<body onload = "startup();">
 
 
-
+<div id="toggle_box"></div>
 <input id="places-input" class="controls" type="text" placeholder="Search for Places Here">
-<div id = "map" style="	height: 951px; width: 1900px;" ></div> <!-- Unknown style id -->
+<div id = "map" ></div>
 
 </body>
 
