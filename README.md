@@ -2,4 +2,4 @@
 Creating an interactive Georgia State Campus map app
 Lead by Krisna Patel, Wasfi Momen , and Alexandra Orrego
 
-[Demo](http://luisferrerapi.cloudapp.net:120/map) served by Luis Ferrer-Labarca. 
+To check out this for yourself, simply clone or fork the repo and click on the index.html link.
